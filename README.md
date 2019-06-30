@@ -1,2 +1,1 @@
-# Training
-create a Resume
+# Resume
